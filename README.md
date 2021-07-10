@@ -26,18 +26,21 @@ https://restream.io/
 
 ## OBS
 
-- OBS Stream tab    
+- Stream tab    
 OBS >> File >> Settings >> Stream (I use Restream)    
 
-- OBS Video tab   
+- Video tab   
 OBS >> File >> Settings >> Video   
 1280x720 base and output, Bicubic downscale filter, FPS 30   
 
-- OBS Output tab   
+- Output tab   
 OBS >> File >> Settings >> Output   
 Output Mode Simple   
 Video bitrate 3000 Kbps   
 Audio Bitrate 160   
+
+- Advanced Tab   
+Process Priority High
 
 ## VB Audio Virtual Cable
 
