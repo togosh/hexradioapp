@@ -86,7 +86,11 @@ Bar width: 6, Bar height: 110, Bar spacing: 2, Gravity: 0.90, Detail: 32 bins
 https://github.com/togoshige/hexradiobot    
 --- OBS websocket plugin   
 https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/   
-(C:\Program Files\obs-studio\obs-plugins\64bit)   
+(C:\Program Files\obs-studio\obs-plugins\64bit) 
+
+- Google Voice   
+New Phone Numbers for Telegram   
+https://voice.google.com/   
 
 # TODO
 
