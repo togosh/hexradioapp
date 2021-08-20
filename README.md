@@ -92,12 +92,12 @@ https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-f
 New Phone Numbers for Telegram   
 https://voice.google.com/   
 
-# TODO
-
-- add UTC clock?   
+- UTC clock  
 https://www.youtube.com/watch?v=SgqT58peTQs   
 https://obsproject.com/forum/threads/new-i-am-looking-for-a-date-time-plugin-display.135757/   
 (Requested by multiple people, to help with making clips)   
+
+# TODO
 
 - stream audio     
 https://medium.com/@richard534/uploading-streaming-audio-using-nodejs-express-mongodb-gridfs-b031a0bcb20f  
