@@ -81,9 +81,9 @@ https://obsproject.com/forum/resources/spectralizer.861/
 Mode: Bars, Audio Source: Cable Input, Filter:  Monstercat, Color: #eea820   
 Bar width: 6, Bar height: 110, Bar spacing: 2, Gravity: 0.90, Detail: 32 bins   
 
-- HEXradiobot   
+- HEXradiobot (Automatically Starts/Stops Stream based on Voice Activity)   
 --- C# program   
-https://github.com/togoshige/hexradiobot    
+https://github.com/togosh/hexradiobot    
 --- OBS websocket plugin   
 https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/   
 (C:\Program Files\obs-studio\obs-plugins\64bit) 
